@@ -44,7 +44,7 @@ div img{
     border-radius:10px ;
     width:100%;
 }
-div h3{
+div h1{
   font-size: 1.25rem;
   font-weight: 700;
   margin: 20px 0 10px;
@@ -61,7 +61,7 @@ div p{
     max-width: 350px;
   }
 
-  div h3 {
+  div h1 {
     font-size: 1.5rem;
   }
 
