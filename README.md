@@ -18,7 +18,7 @@ Whether you're here to learn, give feedback, or track my progress—welcome! Let
 
 # QR Code Component
 
-This is a solution to the [Frontend Mentor QR Code Component Challenge](). The goal was to build a simple and responsive card component that features a QR code, styled layout and accessible HTML structure.
+This is a solution to the [Frontend Mentor QR Code Component Challenge](https://www.frontendmentor.io/solutions/responsive-page-using-flexbox-html-and-css-EgTldmIh7y). The goal was to build a simple and responsive card component that features a QR code, styled layout and accessible HTML structure.
 
 ## Table of contents
 
@@ -56,7 +56,7 @@ This is a beginner-level frontend project that helped me:
 
 ##  Live Preview
 
-[Live Site]()
+[Live Site](https://qrcardpro.netlify.app)
 
 ##  What I had to relearn
 
